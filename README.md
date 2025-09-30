@@ -4,7 +4,6 @@ Mirror for the Windows Subsystem for Android (WSA) kernel source code, and super
 ## Branches
 - [master](https://github.com/WSA-Community/WSA-Linux-Kernel/tree/master): (Default) Description and solutions
 - [source](https://github.com/WSA-Community/WSA-Linux-Kernel/tree/source): Windows Subsystem for Android kernel source code
-- [kernelsu](https://github.com/WSA-Community/WSA-Linux-Kernel/tree/kernelsu): Windows Subsystem for Android kernel with [Kernel-Assisted Superuser](https://github.com/MlgmXyysd/kernel-assisted-superuser) patched source code
 
 ## GitHub Actions
 This repository uses GitHub Actions to automatically build kernel images from source.
